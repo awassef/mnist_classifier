@@ -1,6 +1,6 @@
 # MNIST Classifier
 
-This program automatically classifies the MNIST dataset. It uses a very basic neural network model, with an accuracy of ~97%.
+This program automatically classifies handwritten digits. It makes use of the MNIST dataset, and uses a basic neural network model, with an accuracy of ~97%.
 
 # Requirements
 - Python 3.6 or below
