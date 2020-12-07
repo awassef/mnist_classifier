@@ -8,5 +8,7 @@ This program automatically classifies the MNIST dataset. It uses a very basic ne
 - Keras
 - Numpy
 - Matplotlib
+- Jupyter notebook 
+
 
 To install requirements, simply use pip install -r requirements.txt
