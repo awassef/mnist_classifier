@@ -1,5 +1,5 @@
-Python 3.6 or below
-Tensorflow
-Keras
-Numpy
-Matplotlib
+tensorflow
+keras
+numpy
+matplotlib
+notebook
